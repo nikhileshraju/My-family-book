@@ -1,0 +1,20 @@
+h1{
+font-variant: small-caps;
+color:teal;
+font-size: 70px;
+}
+#family_member_image {
+size:50px;
+}
+h4 {
+font-variant: small-caps;
+font-size:40px;
+color: violet;
+}
+#button {
+color:yellowgreen;
+background-color: tomato;
+}
+body {
+background-color: turquoise;
+}
